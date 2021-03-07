@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("EXTRA_MESSAGE", msg);
         startActivity(intent);
     }
+    //this is the 1st comment to check whether this change can be pushed in to github
 
 }
